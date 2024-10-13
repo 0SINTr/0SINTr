@@ -59,3 +59,17 @@ Actively maintaining the following repos.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0SINTr&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### 📧 Professional Collaborations
+
+- **Email Address**:  
+  Please direct your inquiries to **sintr.0@pm.me**.
+
+- **Important Guidelines**:  
+  - Use a **professional email** or a **ProtonMail** address.
+  - Keep your message **concise** and written in **English**.
+
+- **Security Notice**:  
+  Emails with **links** or **attachments** will be ignored for security reasons.
