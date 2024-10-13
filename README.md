@@ -28,7 +28,7 @@ I am a random dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 - :telescope: On the **OSINT** side ➤ public repos:
   - [osintr](https://github.com/0SINTr/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)
   - [ofm](https://github.com/0SINTr/ofm) - OSINT Funnel Methodology for open-source passive investigations.
-  - [ooo](https://github.com/0SINTr/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.
+  - [ooo](https://github.com/0SINTr/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br /><br />
 - :closed_lock_with_key: On the **Steganography** side ➤ private repos:
   - **DHushCP** - Network steganography tool for covert communication via the DHCP protocol.
   - **SShiD** - Network steganography tool for covert communication via the SSID broadcast
@@ -56,6 +56,7 @@ I am a random dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0SINTr&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0SINTr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
