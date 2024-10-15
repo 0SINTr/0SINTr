@@ -33,7 +33,7 @@ Actively maintaining the following repos.
   ➤ [**ooo**](https://github.com/0SINTr/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br /><br />
 - :closed_lock_with_key: **Steganography:**<br />
   ➤ [**DHushCP**](https://github.com/0SINTr/DHushCP) - Network steganography tool for covert communication via the DHCP protocol.<br />
-  ➤ [**SShiD**]([soon](https://github.com/0SINTr/SShiD)) - Network steganography tool for covert communication via Wi-Fi beacons.<br />
+  ➤ [**SShiD**](https://github.com/0SINTr/SShiD) - Network steganography tool for covert communication via Wi-Fi beacons.<br />
   ➤ [**NetStego**](https://github.com/0SINTr/NetStego) - Network Steganography learning resources (websites, videos, papers).<br />
   ➤ *Plus 2 new stego tools currently under development*.
  
