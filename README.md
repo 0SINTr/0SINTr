@@ -35,8 +35,8 @@ Actively maintaining the following repos.
   ➤ [**DHushCP**](https://github.com/0SINTr/DHushCP) - Network steganography tool for covert communication via the DHCP protocol.<br />
   ➤ [**SShiD**](https://github.com/0SINTr/SShiD) - Network steganography tool for covert communication via Wi-Fi beacons.<br />
   ➤ [**hARP**](https://github.com/0SINTr/hARP) - Network steganography tool for covert communication via ARP cache.<br />
+  ➤ [**hm-nmap**](https://github.com/0SINTr/hm-nmap) - Network steganography tool for covert communication encoded in open ports.<br />
   ➤ [**NetStego**](https://github.com/0SINTr/NetStego) - Network Steganography learning resources (websites, videos, papers).<br />
-  ➤ *Plus 2 new stego tools currently under development*.
  
 ---
 
