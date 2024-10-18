@@ -28,15 +28,16 @@ I am a random dev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 Actively maintaining the following repos.
 - :telescope: **OSINT:**<br />
-  ➤ [**osintr**](https://github.com/0SINTr/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)<br />
-  ➤ [**ofm**](https://github.com/0SINTr/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
-  ➤ [**ooo**](https://github.com/0SINTr/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br /><br />
+  - [**osintr**](https://github.com/0SINTr/osintr) - OFM Stage 1 tool for GRASS (Google Recursive Advanced Search & Scrape)<br />
+  - [**ofm**](https://github.com/0SINTr/ofm) - OSINT Funnel Methodology for open-source passive investigations.<br />
+  - [**ooo**](https://github.com/0SINTr/ooo) - OSINT OpSec Outline (OOO) - Framework for OSINT hygiene.<br /><br />
 - :closed_lock_with_key: **Steganography:**<br />
-  ➤ [**DHushCP**](https://github.com/0SINTr/DHushCP) - Network steganography tool for covert communication via the DHCP protocol.<br />
-  ➤ [**SShiD**](https://github.com/0SINTr/SShiD) - Network steganography tool for covert communication via Wi-Fi beacons.<br />
-  ➤ [**hARP**](https://github.com/0SINTr/hARP) - Network steganography tool for covert communication via ARP cache.<br />
-  ➤ [**hm-nmap**](https://github.com/0SINTr/hm-nmap) - Network steganography tool for covert communication encoded in open ports.<br />
-  ➤ [**NetStego**](https://github.com/0SINTr/NetStego) - Network Steganography learning resources (websites, videos, papers).<br />
+  - [**DHushCP**](https://github.com/0SINTr/DHushCP) - Network steganography tool for covert communication via the DHCP protocol.<br />
+  - [**DHushCP-n**](https://github.com/0SINTr/DHushCP-n) - DHushCP-based, but embeds text steganography into network stego techniques.<br />
+  - [**SShiD**](https://github.com/0SINTr/SShiD) - Network steganography tool for covert communication via Wi-Fi beacons.<br />
+  - [**hARP**](https://github.com/0SINTr/hARP) - Network steganography tool for covert communication via ARP cache.<br />
+  - [**hm-nmap**](https://github.com/0SINTr/hm-nmap) - Network steganography tool for covert communication encoded in open ports.<br />
+  - [**NetStego**](https://github.com/0SINTr/NetStego) - Network Steganography learning resources (websites, videos, papers).<br />
  
 ---
 
